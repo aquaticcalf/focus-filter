@@ -1,8 +1,8 @@
-## Focus Filter Browser Extension
+## 🚫 Focus Filter Browser Extension
 
 A minimal browser extension to help you stay focused and productive by managing digital distractions. Block distracting websites, track your focus sessions, and build better work habits.
 
-![Focus Filter](icons/icon128.png)
+[![randown](https://aqclf.xyz/randown/randown.svg)](https://aqclf.xyz/randown?username=aquaticcalf&reponame=focus-filter)
 
 ## 🪂 Features
 
