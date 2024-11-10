@@ -138,7 +138,7 @@ git push origin feature/amazingfeature
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](license) for more information.
 
 ## 📞 Support
 
